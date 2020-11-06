@@ -48,6 +48,7 @@ def greet_user
   RulesAI::Rule_Set.greet_user
 end
 
+# This is a joke ruleset, don't use for actual security applications. It's a Rot13 with a randomized alphabet.
 def mixed_13
   require "rules_ai"
 
