@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-~~~
+~~~ruby
 ## Common Ruleset
 def hours_passed
   require "rules_ai"
